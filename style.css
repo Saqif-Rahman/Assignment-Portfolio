@@ -2046,17 +2046,17 @@
 
 
 
-                    /* .triangle {
-              display: none;
+                     .triangle {
+              scale: 0.6;
             }
 
             .dots {
-              display: none;
+              scale: 0.6;
 
             }
 
             .square {
-              display: none;
+              scale: 0.6;
             } */
 
             .ham {
