@@ -2046,7 +2046,7 @@
 
 
 
-                    .triangle {
+                    /* .triangle {
               display: none;
             }
 
@@ -2057,7 +2057,7 @@
 
             .square {
               display: none;
-            }
+            } */
 
             .ham {
               display: block;
