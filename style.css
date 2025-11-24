@@ -2191,19 +2191,24 @@
 
             footer {
               padding: 1rem 0;
+              margin: 0 auto;
             }
 
             .social-link {
-              scale: 1.5;
+              scale: 1.2;
             }
 
             .socials li {
-              margin: 10px 40px !important;
+              margin: 10px 20px !important;
             }
 
            footer a.logo {
             margin: 0;
             font-size: 2rem;
+           }
+
+           ul.socials {
+            padding: 0;
            }
             
 
